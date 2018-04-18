@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="info">Message...</string>
+    <string name="out">Sign out</string>
+</resources>
