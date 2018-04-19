@@ -12,7 +12,7 @@ public class ChatMessage {
     private String messageUser;  //sõnumi saajaks
     private long messageTime;    //sõnumi ajaks
 
-    public ChatMessage(String messageText, String messageUser, long messageTime) {
+    public ChatMessage(String messageText, String messageUser) {
         this.messageText = messageText;
         this.messageUser = messageUser;
         messageTime = new Date().getTime();
